@@ -1,0 +1,4 @@
+C:\Ejercicios_Algoritmos\Proyectofin\Proyectofin\x64\Debug\Proyectofin.vcxproj.AssemblyReference.cache
+C:\Ejercicios_Algoritmos\Proyectofin\Proyectofin\x64\Debug\Proyectofin.MyForm.resources
+C:\Ejercicios_Algoritmos\Proyectofin\Proyectofin\x64\Debug\Proyectofin.MyForm1.resources
+C:\Ejercicios_Algoritmos\Proyectofin\Proyectofin\x64\Debug\Proyectofin.vcxproj.GenerateResource.cache
